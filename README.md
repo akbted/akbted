@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/akbted?ext=heatmap)
+# ![Leetcode Stats](https://leetcard.jacoblin.cool/akbted?ext=heatmap)
 
 <!---
 - 👋 Hi, I’m @akbted
